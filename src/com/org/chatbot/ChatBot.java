@@ -63,8 +63,6 @@ public class ChatBot extends JFrame {
 						replyMeth("I'm Feeling shy :) Love You Too sweetheart :)");
 					} else if(txt.contains("bye")) {
 						replyMeth("To soon :( Anyways Byee STAY HOME STAY SAFE..!!");
-					} else if(txt.contains("gaali")) {
-						replyMeth("Bhkk BHSDK....Ja ke apna kam kar :)");
 					} else if(txt.contains("which season you like?")) {
 						replyMeth("I like WINTER :) and what about you?");
 					} else if(txt.contains("i'm good")) {
